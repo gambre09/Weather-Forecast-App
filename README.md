@@ -15,3 +15,4 @@ The Weather Forecast application in Java that provides real-time weather updates
 - Simple JSON JAR
 - Weather Forecast API (https://open-meteo.com/en/docs#latitude=33.767&longitude=-118.1892)
 - Geolocation API (https://open-meteo.com/en/docs/geocoding-api)
+ 
